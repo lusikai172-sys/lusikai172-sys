@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm lusikai172 👋
+# Hi, I'm Lu Sikai 👋
 
 **Python · Django · 数据分析与可视化**
 
